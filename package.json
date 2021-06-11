@@ -1,0 +1,41 @@
+{
+  "name": "marc.wsu.edu",
+  "version": "1.0.0",
+  "description": "Front-end development module for building the WSU MARC Program website",
+  "main": "gulpfile.js",
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-extname": "^0.2.2",
+    "gulp-group-css-media-queries": "^1.2.2",
+    "gulp-insert": "^0.5.0",
+    "gulp-insert-lines": "git+https://github.com/invokeImmediately/gulp-insert-lines.git",
+    "gulp-less": "^4.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-replace": "^1.0.0",
+    "gulp-terser": "^2.0.1",
+    "gulp-uglify": "^3.0.2",
+    "gulp-wait": "0.0.2",
+    "pump": "^3.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/invokeImmediately/marc.wsu.edu.git"
+  },
+  "keywords": [
+    "Washington",
+    "State",
+    "University"
+  ],
+  "author": "Daniel Rieck <danielcrieck@gmail.com> (https://www.linkedin.com/in/danielcrieck/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/invokeImmediately/marc.wsu.edu/issues"
+  },
+  "homepage": "https://github.com/invokeImmediately/marc.wsu.edu#readme"
+}
