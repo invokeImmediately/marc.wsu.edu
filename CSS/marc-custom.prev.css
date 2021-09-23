@@ -1,40 +1,40 @@
-@import  'https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap';
+@import  'https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,300;0,400;0,600;0,700;1,300;1,400;1,600;1,700&family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap';
 
 /*! ================================================================================================
-*** █▀▀▄ ▄▀▀▄ █▀▀▀ ▄▀▀▀ ▄▀▀▄   ▄▀▀▀ █  █ ▄▀▀▀▐▀█▀▌▄▀▀▄ ▐▀▄▀▌   ▄▀▀▀▐▀█▀▌█  █ █    ▀█▀ ▐▀▀▄ █▀▀▀
-*** █  █ █▄▄█ █▀▀  ▀▀▀█ █▄▄█   █    █  █ ▀▀▀█  █  █  █ █ ▀ ▌   ▀▀▀█  █  ▀▄▄█ █  ▄  █  █  ▐ █ ▀▄
-*** ▀▀▀  █  ▀ ▀▀▀▀ ▀▀▀  █  ▀    ▀▀▀  ▀▀  ▀▀▀   █   ▀▀  █   ▀   ▀▀▀   █  ▄▄▄▀ ▀▀▀  ▀▀▀ ▀  ▐ ▀▀▀▀
-*** ================================================================================================
-*** The following section of this stylesheet contains CSS code written for use on all websites
-***   designed, built, and maintained by the Division of Academic Engagement and Student Achievement
-***   (DAESA) in the Office of the Provost at Washington State University (WSU).
-***
-*** The CSS code in the following section was generated from precompiled CSS written in the Less
-***   language extension of CSS. It is designed to be applied via the WSUWP CSS Stylesheet Editor
-***   functioning in add-on mode.
-***
-*** Please refer to the linked GitHub project for fully documented, precompiled source code.
-***
-*** @version 1.0.1-rc0.0.6
-***
-*** @link https://github.com/invokeImmediately/WSU-DAESA-CSS
-*** @author Daniel Rieck [daniel.rieck@wsu.edu] (https://github.com/invokeImmediately)
-*** @license MIT Copyright (c) 2021 Washington State University
-***   Permission is hereby granted, free of charge, to any person obtaining a copy of this software
-***     and associated documentation files (the "Software"), to deal in the Software without
-***     restriction, including without limitation the rights to use, copy, modify, merge, publish,
-***     distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom
-***     the Software is furnished to do so, subject to the following conditions:
-***   The above copyright notice and this permission notice shall be included in all copies or
-***     substantial portions of the Software.
-***   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
-***     BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-***     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-***     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-***     ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-***     SOFTWARE.
-*** ================================================================================================
-**/
+ *  █▀▀▄ ▄▀▀▄ █▀▀▀ ▄▀▀▀ ▄▀▀▄   ▄▀▀▀ █  █ ▄▀▀▀▐▀█▀▌▄▀▀▄ ▐▀▄▀▌   ▄▀▀▀▐▀█▀▌█  █ █    ▀█▀ ▐▀▀▄ █▀▀▀
+ *  █  █ █▄▄█ █▀▀  ▀▀▀█ █▄▄█   █    █  █ ▀▀▀█  █  █  █ █ ▀ ▌   ▀▀▀█  █  ▀▄▄█ █  ▄  █  █  ▐ █ ▀▄
+ *  ▀▀▀  █  ▀ ▀▀▀▀ ▀▀▀  █  ▀    ▀▀▀  ▀▀  ▀▀▀   █   ▀▀  █   ▀   ▀▀▀   █  ▄▄▄▀ ▀▀▀  ▀▀▀ ▀  ▐ ▀▀▀▀
+ *  ================================================================================================
+ *  The following section of this stylesheet contains CSS code written for use on all websites
+ *    designed, built, and maintained by the Division of Academic Engagement and Student Achievement
+ *    (DAESA) in the Office of the Provost at Washington State University (WSU).
+ *
+ *  The CSS code in the following section was generated from precompiled CSS written in the Less
+ *    language extension of CSS. It is designed to be applied via the WSUWP CSS Stylesheet Editor
+ *    functioning in add-on mode.
+ *
+ *  Please refer to the linked GitHub project for fully documented, precompiled source code.
+ *
+ *  @version 1.2.0-rc0.0.1
+ *
+ *  @link https://github.com/invokeImmediately/WSU-DAESA-CSS
+ *  @author Daniel Rieck [daniel.rieck@wsu.edu] (https://github.com/invokeImmediately)
+ *  @license MIT Copyright (c) 2021 Washington State University
+ *    Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ *      and associated documentation files (the "Software"), to deal in the Software without
+ *      restriction, including without limitation the rights to use, copy, modify, merge, publish,
+ *      distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom
+ *      the Software is furnished to do so, subject to the following conditions:
+ *    The above copyright notice and this permission notice shall be included in all copies or
+ *      substantial portions of the Software.
+ *    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ *      BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ *      NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+ *      DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+ *      FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ *      SOFTWARE.
+ *  ================================================================================================
+ */
 .ff--sans,.has-dflt-font,body {
 	font-family: Montserrat, 'Open Sans', sans-serif;
 }
@@ -312,6 +312,18 @@ html {
 	font-size: 100%;
 }
 
+#spine-offsitenav,#spine-sitenav {
+	font-family: 'Open Sans', sans-serif;
+}
+
+#spine nav li.parent>a:not(:hover):after {
+	display: block;
+}
+
+#spine nav li.parent:not(.opened)>a:not(:hover):after {
+	color: rgba(117,117,117,.5);
+}
+
 .column article.post {
 	background-color: #fff;
 	border: 1px solid rgba(0,0,0,.3333);
@@ -570,7 +582,7 @@ h2.article-title a {
 }
 
 h1,h2,h3,h4,h5,h6 {
-	font-family: 'Roboto Condensed', 'Arial Narrow', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: 600;
 	margin: 0;
 	padding: 0;
@@ -589,27 +601,27 @@ h2 {
 }
 
 h1 {
-	font-size: 2.4em;
+	font-size: 2.5rem;
 }
 
 h2 {
-	font-size: 2.1em;
+	font-size: 2.1rem;
 }
 
 h3 {
-	font-size: 1.8em;
+	font-size: 1.8rem;
 }
 
 h4 {
-	font-size: 1.6em;
+	font-size: 1.5rem;
 }
 
 h5 {
-	font-size: 1.5em;
+	font-size: 1.25rem;
 }
 
 h6 {
-	font-size: 1.4em;
+	font-size: 1rem;
 }
 
 h1,h2,h3,h4,h5,h6 {
@@ -923,21 +935,17 @@ footer.article-footer div.author-info {
 }
 
 .article-deck {
-	color: #72652a;
-}
-
-.article-deck strong {
-	color: #8f7e35;
+	font-size: 1.4em;
 }
 
 .article-tagline {
-	font-size: 1.43em;
+	font-size: 1.4em;
 	font-weight: 300;
-	line-height: 1.313em;
+	line-height: 1.5em;
 }
 
 .article-tagline.article-tagline--home,.article-tagline.home {
-	font-size: 1.6445em;
+	font-size: 1.61em;
 }
 
 p {
@@ -1298,7 +1306,7 @@ ul.cascaded-layout.blank>li.gutter-sizer {
 	width: 3% !important;
 }
 
-.column>*+div {
+.column>*+div:not([class*=margined-top]):not([class*=mt--]):not([class*=sv--]) {
 	margin-top: 1em;
 }
 
@@ -2114,7 +2122,7 @@ main>.page>.row:last-child>.column:last-child {
 }
 
 .overlay-link:after {
-	background: rgba(202,18,55,.33) url(https://s3.wp.wsu.edu/uploads/sites/57/2020/07/overlay-link_open-sans-0xbb.svg) center/8rem no-repeat;
+	background: rgba(202,18,55,.33) url(https://s3.wp.wsu.edu/uploads/sites/57/2020/07/overlay-link_open-sans-0xbb.svg) 50% center/8rem no-repeat;
 	height: 100%;
 	left: 0;
 	opacity: 0;
@@ -2130,8 +2138,23 @@ main>.page>.row:last-child>.column:last-child {
 	width: 4rem;
 }
 
+.overlay-link:focus:before,.overlay-link:hover:before {
+	opacity: 0;
+}
+
 .overlay-link:focus:after,.overlay-link:hover:after {
 	opacity: 1;
+}
+
+.overlay-link--smaller-icon:after {
+	background: rgba(202,18,55,.33) url(https://s3.wp.wsu.edu/uploads/sites/57/2020/07/overlay-link_open-sans-0xbb.svg) 50% center/4rem no-repeat;
+}
+
+.overlay-link--smaller-icon:before {
+	bottom: .5rem;
+	height: 2rem;
+	right: .5rem;
+	width: 2rem;
 }
 
 .column h1 a:not(.non-text-link),.column h2 a:not(.non-text-link),.column h3 a:not(.non-text-link),.column h4 a:not(.non-text-link),.column h5 a:not(.non-text-link),.column h6 a:not(.non-text-link),.gform_heading h3.gform_title a:not(.non-text-link) {
@@ -2272,7 +2295,7 @@ strong.stands-out {
 	font-size: 1.2em;
 }
 
-strong:not([class*=fw--]) {
+b:not([class*=fw--]),strong:not([class*=fw--]) {
 	font-weight: 600;
 }
 
@@ -2642,7 +2665,6 @@ figure figcaption {
 }
 
 .column .gform_fields>.gfield.gfield_contains_required input:focus,.column .gform_fields>.gfield.gfield_contains_required select:focus,.column .gform_fields>.gfield.gfield_contains_required textarea:focus {
-	background-color: #edf3f4 !important;
 	background: linear-gradient(to bottom,rgba(0,0,255,.1) 0,transparent .3em);
 }
 
@@ -2754,12 +2776,12 @@ body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ol .pro
 	color: #fff;
 }
 
-.drop-down-toggle {
+.accordion-toggle,.drop-down-toggle {
 	position: relative;
 	transition: all .3s ease;
 }
 
-.drop-down-toggle:after {
+.accordion-toggle:after,.drop-down-toggle:after {
 	content: "";
 	position: absolute;
 	right: 10px;
@@ -2774,7 +2796,7 @@ body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ol .pro
 	transition: all .3s ease;
 }
 
-.drop-down-toggle:before {
+.accordion-toggle:before,.drop-down-toggle:before {
 	content: "Click to expand";
 	position: absolute;
 	top: 50%;
@@ -2787,54 +2809,54 @@ body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ol .pro
 	transition: all .3s ease;
 }
 
-.drop-down-toggle:hover {
+.accordion-toggle:hover,.drop-down-toggle:hover {
 	background-color: rgba(219,120,121,.3);
 }
 
-.drop-down-toggle:hover:after {
+.accordion-toggle:hover:after,.drop-down-toggle:hover:after {
 	border-top: none;
 	border-right: 8px solid transparent;
 	border-bottom: 8px solid #ca1237;
 	border-left: 8px solid transparent;
 }
 
-.drop-down-toggle:hover:before {
+.accordion-toggle:hover:before,.drop-down-toggle:hover:before {
 	opacity: .5;
 }
 
-.drop-down-toggle.activated {
+.accordion-toggle.activated,.drop-down-toggle.activated {
 	background-color: rgba(219,120,121,.15);
 }
 
-.drop-down-toggle.activated:after {
+.accordion-toggle.activated:after,.drop-down-toggle.activated:after {
 	border-top: 8px solid #a60f2d;
 	border-right: 8px solid transparent;
 	border-bottom: none;
 	border-left: 8px solid transparent;
 }
 
-.drop-down-toggle.activated:before {
+.accordion-toggle.activated:before,.drop-down-toggle.activated:before {
 	content: "Click to collapse";
 }
 
-.drop-down-toggle.activated:hover:after {
+.accordion-toggle.activated:hover:after,.drop-down-toggle.activated:hover:after {
 	border-top: 8px solid #ca1237;
 	border-right: 8px solid transparent;
 	border-bottom: none;
 	border-left: 8px solid transparent;
 }
 
-.drop-down-toggle.boxed {
+.accordion-toggle.boxed,.drop-down-toggle.boxed {
 	padding-left: 44px;
 	padding-top: 5px;
 	padding-bottom: 5px;
 	margin-left: 0 !important;
 	margin-right: 0 !important;
 	margin-bottom: 0 !important;
-	background-color: rgba(202,18,55,.1);
+	background-color: rgba(0,0,0,.1);
 }
 
-.drop-down-toggle.boxed:after,.drop-down-toggle.boxed:before {
+.accordion-toggle.boxed:after,.accordion-toggle.boxed:before,.drop-down-toggle.boxed:after,.drop-down-toggle.boxed:before {
 	background-color: #a60f2d;
 	border-radius: 4px;
 	border: none;
@@ -2851,99 +2873,99 @@ body .gform_wrapper div.gform_body ul.gform_fields li.gfield.gfield_html ol .pro
 	transform: translate(-50%,-50%);
 }
 
-.drop-down-toggle.boxed:after {
+.accordion-toggle.boxed:after,.drop-down-toggle.boxed:after {
 	content: "+";
 	opacity: 1;
 }
 
-.drop-down-toggle.boxed:before {
+.accordion-toggle.boxed:before,.drop-down-toggle.boxed:before {
 	content: "-";
 	opacity: 0;
 }
 
-.drop-down-toggle.boxed:hover {
-	background-color: rgba(202,18,55,.3);
+.accordion-toggle.boxed:hover,.drop-down-toggle.boxed:hover {
+	background-color: rgba(0,0,0,.3);
 }
 
-.drop-down-toggle.boxed:hover:after,.drop-down-toggle.boxed:hover:before {
+.accordion-toggle.boxed:hover:after,.accordion-toggle.boxed:hover:before,.drop-down-toggle.boxed:hover:after,.drop-down-toggle.boxed:hover:before {
 	background-color: #be4f65;
 }
 
-.drop-down-toggle.boxed.activated {
-	background-color: rgba(202,18,55,.2);
+.accordion-toggle.boxed.activated,.drop-down-toggle.boxed.activated {
+	background-color: rgba(0,0,0,.2);
 }
 
-.drop-down-toggle.boxed.activated:hover {
-	background-color: rgba(202,18,55,.3);
+.accordion-toggle.boxed.activated:hover,.drop-down-toggle.boxed.activated:hover {
+	background-color: rgba(0,0,0,.3);
 }
 
-.drop-down-toggle.boxed.activated:after {
+.accordion-toggle.boxed.activated:after,.drop-down-toggle.boxed.activated:after {
 	opacity: 0;
 }
 
-.drop-down-toggle.boxed.activated:before {
+.accordion-toggle.boxed.activated:before,.drop-down-toggle.boxed.activated:before {
 	opacity: 1;
 }
 
-.drop-down-toggle.boxed+.toggled-panel {
+.accordion-toggle.boxed+.toggled-panel,.drop-down-toggle.boxed+.toggled-panel {
 	padding: .5rem;
-	border-right: 1px solid rgba(202,18,55,.2);
-	border-bottom: 1px solid rgba(202,18,55,.2);
-	border-left: 1px solid rgba(202,18,55,.2);
+	border-right: 1px solid rgba(0,0,0,.2);
+	border-bottom: 1px solid rgba(0,0,0,.2);
+	border-left: 1px solid rgba(0,0,0,.2);
 	margin-top: 0 !important;
 	padding-top: 1rem !important;
 }
 
-.drop-down-toggle.boxed+.toggled-panel>:last-child {
+.accordion-toggle.boxed+.toggled-panel>:last-child,.drop-down-toggle.boxed+.toggled-panel>:last-child {
 	padding-bottom: .5rem;
 }
 
-.drop-down-toggle.boxed+.drop-down-toggle.boxed,.drop-down-toggle.boxed+.toggled-panel+.drop-down-toggle.boxed {
+.accordion-toggle.boxed+.accordion-toggle.boxed,.accordion-toggle.boxed+.drop-down-toggle.boxed,.accordion-toggle.boxed+.toggled-panel+.accordion-toggle.boxed,.accordion-toggle.boxed+.toggled-panel+.drop-down-toggle.boxed,.drop-down-toggle.boxed+.accordion-toggle.boxed,.drop-down-toggle.boxed+.drop-down-toggle.boxed,.drop-down-toggle.boxed+.toggled-panel+.accordion-toggle.boxed,.drop-down-toggle.boxed+.toggled-panel+.drop-down-toggle.boxed {
 	margin-top: .5rem;
 }
 
-.drop-down-toggle.boxed+.toggled-panel+:not(.drop-down-toggle) {
+.accordion-toggle.boxed+.toggled-panel+:not(.drop-down-toggle),.drop-down-toggle.boxed+.toggled-panel+:not(.drop-down-toggle) {
 	margin-top: 1rem;
 }
 
-.drop-down-toggle.boxed.blue {
+.accordion-toggle.boxed.blue,.drop-down-toggle.boxed.blue {
 	background-color: rgba(0,165,189,.1);
 	color: #0076bd;
 }
 
-.drop-down-toggle.boxed.blue:after,.drop-down-toggle.boxed.blue:before {
+.accordion-toggle.boxed.blue:after,.accordion-toggle.boxed.blue:before,.drop-down-toggle.boxed.blue:after,.drop-down-toggle.boxed.blue:before {
 	background-color: #0076bd;
 }
 
-.drop-down-toggle.boxed.blue:hover {
+.accordion-toggle.boxed.blue:hover,.drop-down-toggle.boxed.blue:hover {
 	background-color: rgba(0,165,189,.3);
 }
 
-.drop-down-toggle.boxed.blue:hover:after,.drop-down-toggle.boxed.blue:hover:before {
+.accordion-toggle.boxed.blue:hover:after,.accordion-toggle.boxed.blue:hover:before,.drop-down-toggle.boxed.blue:hover:after,.drop-down-toggle.boxed.blue:hover:before {
 	background-color: #449bcf;
 }
 
-.drop-down-toggle.boxed.blue.activated {
+.accordion-toggle.boxed.blue.activated,.drop-down-toggle.boxed.blue.activated {
 	background-color: rgba(0,165,189,.2);
 }
 
-.drop-down-toggle.boxed.blue.activated:hover {
+.accordion-toggle.boxed.blue.activated:hover,.drop-down-toggle.boxed.blue.activated:hover {
 	background-color: rgba(0,165,189,.3);
 }
 
-.drop-down-toggle.boxed.blue+.toggled-panel {
+.accordion-toggle.boxed.blue+.toggled-panel,.drop-down-toggle.boxed.blue+.toggled-panel {
 	border-right: 1px solid rgba(0,165,189,.2);
 	border-bottom: 1px solid rgba(0,165,189,.2);
 	border-left: 1px solid rgba(0,165,189,.2);
 }
 
-.drop-down-toggle+.toggled-panel {
+.accordion-toggle+.toggled-panel,.drop-down-toggle+.toggled-panel {
 	opacity: 1;
 	overflow: hidden;
 	transition: all .5s ease;
 }
 
-.drop-down-toggle:not(.activated)+.toggled-panel {
+.accordion-toggle:not(.activated)+.toggled-panel,.drop-down-toggle:not(.activated)+.toggled-panel {
 	height: 0 !important;
 	padding: 0 !important;
 	border: none !important;
@@ -3706,31 +3728,31 @@ div.auto-scroller ul li {
 }
 
 .daesa-card,.style--card {
-	box-shadow: 0 12px 16px 2px rgba(0,0,0,.03), 0 5px 22px 4px rgba(0,0,0,.03), 0 6px 13px 0 rgba(0,0,0,.02);
+	border: 1px solid #eee;
 	border-radius: 5px;
 	box-sizing: border-box;
-	padding: .5rem;
+	padding: 1rem;
 }
 
 .daesa-card--raised,.style--card--raised {
-	border: 1px solid rgba(59,64,66,.15);
-	box-shadow: 0 12px 16px 2px rgba(0,0,0,.03), 0 5px 22px 4px rgba(0,0,0,.03), 0 6px 13px 0 rgba(0,0,0,.02);
+	border: 1px solid #eee;
+	box-shadow: 0 6px 8px 1px rgba(0,0,0,.03), 0 5px 11px 2px rgba(0,0,0,.03);
 	border-radius: 5px;
 	box-sizing: border-box;
-	padding: .5rem;
+	padding: 1rem;
 }
 
 .daesa-card__title,.style--card__title {
 	color: #2a3033;
-	margin-left: -.5rem;
-	margin-right: -.5rem;
-	padding: .25rem .5rem;
+	margin-left: -1rem;
+	margin-right: -1rem;
+	padding: .5rem 1rem;
 }
 
 .daesa-card__title:first-child,.style--card__title:first-child {
 	border-top-left-radius: 4px;
 	border-top-right-radius: 4px;
-	margin-top: -.5rem;
+	margin-top: -1rem;
 }
 
 .daesa-card__sub-title,.style--card__sub-title {
@@ -3744,7 +3766,7 @@ div.auto-scroller ul li {
 	margin-left: -.5rem;
 	margin-right: -.5rem;
 	letter-spacing: 1px;
-	padding: .25rem .5rem;
+	padding: .5rem 1rem;
 	word-spacing: 1px;
 }
 
@@ -4025,7 +4047,7 @@ div.auto-scroller ul li {
 	margin-right: .25em;
 }
 
-.breadcrumb-list__link:not(:hover) {
+.breadcrumb-list__link:not(:hover):not(:focus) {
 	box-shadow: none;
 	border-bottom-color: transparent;
 	color: inherit;
@@ -4570,6 +4592,106 @@ div.auto-scroller ul li {
 
 .h--400px {
 	height: 400px;
+}
+
+.h--250mem {
+	height: 64px;
+}
+
+.h--333mem {
+	height: 80px;
+}
+
+.h--500mem {
+	height: 96px;
+}
+
+.h--667mem {
+	height: 112px;
+}
+
+.h--750mem {
+	height: 128px;
+}
+
+.h--1em {
+	height: 144px;
+}
+
+.h--1250mem {
+	height: 160px;
+}
+
+.h--1333mem {
+	height: 176px;
+}
+
+.h--1500mem {
+	height: 192px;
+}
+
+.h--1667mem {
+	height: 208px;
+}
+
+.h--1750mem {
+	height: 224px;
+}
+
+.h--2em {
+	height: 240px;
+}
+
+.h--3em {
+	height: 256px;
+}
+
+.h--45dem {
+	height: 272px;
+}
+
+.h--6em {
+	height: 288px;
+}
+
+.h--75dem {
+	height: 304px;
+}
+
+.h--9em {
+	height: 320px;
+}
+
+.h--105dem {
+	height: 336px;
+}
+
+.h--12em {
+	height: 352px;
+}
+
+.h--135dem {
+	height: 368px;
+}
+
+.h--15em {
+	height: 384px;
+}
+
+.h--165dem {
+	height: 400px;
+}
+
+.h--18em {
+	height: extract(64px,80px,96px,112px,128px,144px,160px,176px,192px,208px,224px,240px,256px,272px,288px,304px,320px,336px,352px,368px,384px,400px,23);
+}
+
+.h--195dem {
+	height: extract(64px,80px,96px,112px,128px,144px,160px,176px,192px,208px,224px,240px,256px,272px,288px,304px,320px,336px,352px,368px,384px,400px,24);
+}
+
+.h--21em {
+	height: extract(64px,80px,96px,112px,128px,144px,160px,176px,192px,208px,224px,240px,256px,272px,288px,304px,320px,336px,352px,368px,384px,400px,25);
 }
 
 .h--auto {
@@ -5805,6 +5927,346 @@ div.auto-scroller ul li {
 	padding-top: 2em;
 }
 
+.pa--rem--0mx {
+	padding: 0;
+}
+
+.pb--rem--0mx {
+	padding-bottom: 0;
+}
+
+.pl--rem--0mx {
+	padding-left: 0;
+}
+
+.pr--rem--0mx {
+	padding-right: 0;
+}
+
+.pt--rem--0mx {
+	padding-top: 0;
+}
+
+.pa--rem--250mx {
+	padding: .25rem;
+}
+
+.pb--rem--250mx {
+	padding-bottom: .25rem;
+}
+
+.pl--rem--250mx {
+	padding-left: .25rem;
+}
+
+.pr--rem--250mx {
+	padding-right: .25rem;
+}
+
+.pt--rem--250mx {
+	padding-top: .25rem;
+}
+
+.pa--rem--500mx {
+	padding: .5rem;
+}
+
+.pb--rem--500mx {
+	padding-bottom: .5rem;
+}
+
+.pl--rem--500mx {
+	padding-left: .5rem;
+}
+
+.pr--rem--500mx {
+	padding-right: .5rem;
+}
+
+.pt--rem--500mx {
+	padding-top: .5rem;
+}
+
+.pa--rem--750mx {
+	padding: .75rem;
+}
+
+.pb--rem--750mx {
+	padding-bottom: .75rem;
+}
+
+.pl--rem--750mx {
+	padding-left: .75rem;
+}
+
+.pr--rem--750mx {
+	padding-right: .75rem;
+}
+
+.pt--rem--750mx {
+	padding-top: .75rem;
+}
+
+.pa--rem--1000mx {
+	padding: 1rem;
+}
+
+.pb--rem--1000mx {
+	padding-bottom: 1rem;
+}
+
+.pl--rem--1000mx {
+	padding-left: 1rem;
+}
+
+.pr--rem--1000mx {
+	padding-right: 1rem;
+}
+
+.pt--rem--1000mx {
+	padding-top: 1rem;
+}
+
+.pa--rem--1250mx {
+	padding: 1.25rem;
+}
+
+.pb--rem--1250mx {
+	padding-bottom: 1.25rem;
+}
+
+.pl--rem--1250mx {
+	padding-left: 1.25rem;
+}
+
+.pr--rem--1250mx {
+	padding-right: 1.25rem;
+}
+
+.pt--rem--1250mx {
+	padding-top: 1.25rem;
+}
+
+.pa--rem--1500mx {
+	padding: 1.5rem;
+}
+
+.pb--rem--1500mx {
+	padding-bottom: 1.5rem;
+}
+
+.pl--rem--1500mx {
+	padding-left: 1.5rem;
+}
+
+.pr--rem--1500mx {
+	padding-right: 1.5rem;
+}
+
+.pt--rem--1500mx {
+	padding-top: 1.5rem;
+}
+
+.pa--rem--1750mx {
+	padding: 1.75rem;
+}
+
+.pb--rem--1750mx {
+	padding-bottom: 1.75rem;
+}
+
+.pl--rem--1750mx {
+	padding-left: 1.75rem;
+}
+
+.pr--rem--1750mx {
+	padding-right: 1.75rem;
+}
+
+.pt--rem--1750mx {
+	padding-top: 1.75rem;
+}
+
+.pa--rem--2000mx {
+	padding: 2rem;
+}
+
+.pb--rem--2000mx {
+	padding-bottom: 2rem;
+}
+
+.pl--rem--2000mx {
+	padding-left: 2rem;
+}
+
+.pr--rem--2000mx {
+	padding-right: 2rem;
+}
+
+.pt--rem--2000mx {
+	padding-top: 2rem;
+}
+
+.pa--rem--2250mx {
+	padding: 2.25rem;
+}
+
+.pb--rem--2250mx {
+	padding-bottom: 2.25rem;
+}
+
+.pl--rem--2250mx {
+	padding-left: 2.25rem;
+}
+
+.pr--rem--2250mx {
+	padding-right: 2.25rem;
+}
+
+.pt--rem--2250mx {
+	padding-top: 2.25rem;
+}
+
+.pa--rem--2500mx {
+	padding: 2.5rem;
+}
+
+.pb--rem--2500mx {
+	padding-bottom: 2.5rem;
+}
+
+.pl--rem--2500mx {
+	padding-left: 2.5rem;
+}
+
+.pr--rem--2500mx {
+	padding-right: 2.5rem;
+}
+
+.pt--rem--2500mx {
+	padding-top: 2.5rem;
+}
+
+.pa--rem--2750mx {
+	padding: 2.5rem;
+}
+
+.pb--rem--2750mx {
+	padding-bottom: 2.5rem;
+}
+
+.pl--rem--2750mx {
+	padding-left: 2.5rem;
+}
+
+.pr--rem--2750mx {
+	padding-right: 2.5rem;
+}
+
+.pt--rem--2750mx {
+	padding-top: 2.5rem;
+}
+
+.pa--rem--3000mx {
+	padding: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,13);
+}
+
+.pb--rem--3000mx {
+	padding-bottom: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,13);
+}
+
+.pl--rem--3000mx {
+	padding-left: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,13);
+}
+
+.pr--rem--3000mx {
+	padding-right: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,13);
+}
+
+.pt--rem--3000mx {
+	padding-top: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,13);
+}
+
+.pa--rem--3250mx {
+	padding: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,14);
+}
+
+.pb--rem--3250mx {
+	padding-bottom: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,14);
+}
+
+.pl--rem--3250mx {
+	padding-left: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,14);
+}
+
+.pr--rem--3250mx {
+	padding-right: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,14);
+}
+
+.pt--rem--3250mx {
+	padding-top: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,14);
+}
+
+.pa--rem--3500mx {
+	padding: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,15);
+}
+
+.pb--rem--3500mx {
+	padding-bottom: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,15);
+}
+
+.pl--rem--3500mx {
+	padding-left: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,15);
+}
+
+.pr--rem--3500mx {
+	padding-right: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,15);
+}
+
+.pt--rem--3500mx {
+	padding-top: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,15);
+}
+
+.pa--rem--3750mx {
+	padding: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,16);
+}
+
+.pb--rem--3750mx {
+	padding-bottom: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,16);
+}
+
+.pl--rem--3750mx {
+	padding-left: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,16);
+}
+
+.pr--rem--3750mx {
+	padding-right: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,16);
+}
+
+.pt--rem--3750mx {
+	padding-top: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,16);
+}
+
+.pa--rem--4000mx {
+	padding: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,17);
+}
+
+.pb--rem--4000mx {
+	padding-bottom: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,17);
+}
+
+.pl--rem--4000mx {
+	padding-left: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,17);
+}
+
+.pr--rem--4000mx {
+	padding-right: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,17);
+}
+
+.pt--rem--4000mx {
+	padding-top: extract(0,.25rem,.5rem,.75rem,1rem,1.25rem,1.5rem,1.75rem,2rem,2.25rem,2.5rem,2.5rem,17);
+}
+
 .va--baseline {
 	vertical-align: baseline;
 }
@@ -6171,13 +6633,8 @@ main {
 	animation: fade-in 2s linear 1;
 }
 
-h1:not(.article-title) {
+h1 {
 	text-transform: uppercase;
-}
-
-.single-post .article-title {
-	padding-left: .5rem;
-	text-indent: -.5rem;
 }
 
 .column aside {
@@ -7177,36 +7634,36 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 }
 
 /*! ================================================================================================
-*** ▐▀▄▀▌█▀▀▀ █▀▀▄ ▀█▀ ▄▀▀▄   ▄▀▀▄ █  █ █▀▀▀ █▀▀▄ ▀█▀ █▀▀▀ ▄▀▀▀   ▄▀▀▀ █▀▀▀ ▄▀▀▀▐▀█▀▌▀█▀ ▄▀▀▄ ▐▀▀▄
-*** █ ▀ ▌█▀▀  █  █  █  █▄▄█   █  █ █  █ █▀▀  █▄▄▀  █  █▀▀  ▀▀▀█   ▀▀▀█ █▀▀  █     █   █  █  █ █  ▐
-*** █   ▀▀▀▀▀ ▀▀▀  ▀▀▀ █  ▀    ▀█▄  ▀▀  ▀▀▀▀ ▀  ▀▄▀▀▀ ▀▀▀▀ ▀▀▀    ▀▀▀  ▀▀▀▀  ▀▀▀  █  ▀▀▀  ▀▀  ▀  ▐
-*** ================================================================================================
-*** Media queries built from precompiled CSS written in the Less language extension of CSS. Queries
-***   in this section are a combination of those designed for use on DAESA websites and those
-***   intended specifically for use on the MARC website.
-***
-*** Fully documented, precompiled source code from which this section of stylesheet was developed
-***   is maintained on the following two GitHub projects:
-***   - https://github.com/invokeImmediately/WSU-DAESA-CSS/
-***   - https://github.com/invokeImmediately/marc.wsu.edu/
-***
-*** @author Daniel Rieck [daniel.rieck@wsu.edu] (https://github.com/invokeImmediately)
-*** @license: MIT - Copyright (c) 2021 Washington State University
-***   Permission is hereby granted, free of charge, to any person obtaining a copy of this software
-***     and associated documentation files (the "Software"), to deal in the Software without
-***     restriction, including without limitation the rights to use, copy, modify, merge, publish,
-***     distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom
-***     the Software is furnished to do so, subject to the following conditions:
-***   The above copyright notice and this permission notice shall be included in all copies or
-***     substantial portions of the Software.
-***   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
-***     BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
-***     NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
-***     CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-***     ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-***     SOFTWARE.
-*** ================================================================================================
-**/
+ *  ▐▀▄▀▌█▀▀▀ █▀▀▄ ▀█▀ ▄▀▀▄   ▄▀▀▄ █  █ █▀▀▀ █▀▀▄ ▀█▀ █▀▀▀ ▄▀▀▀   ▄▀▀▀ █▀▀▀ ▄▀▀▀▐▀█▀▌▀█▀ ▄▀▀▄ ▐▀▀▄
+ *  █ ▀ ▌█▀▀  █  █  █  █▄▄█   █  █ █  █ █▀▀  █▄▄▀  █  █▀▀  ▀▀▀█   ▀▀▀█ █▀▀  █     █   █  █  █ █  ▐
+ *  █   ▀▀▀▀▀ ▀▀▀  ▀▀▀ █  ▀    ▀█▄  ▀▀  ▀▀▀▀ ▀  ▀▄▀▀▀ ▀▀▀▀ ▀▀▀    ▀▀▀  ▀▀▀▀  ▀▀▀  █  ▀▀▀  ▀▀  ▀  ▐
+ *  ================================================================================================
+ *  Media queries built from precompiled CSS written in the Less language extension of CSS. Queries
+ *    in this section are a combination of those designed for use on DAESA websites and those
+ *    intended specifically for use on the MARC website.
+ *
+ *  Fully documented, precompiled source code from which this section of stylesheet was developed
+ *    is maintained on the following two GitHub projects:
+ *    - https://github.com/invokeImmediately/WSU-DAESA-CSS/
+ *    - https://github.com/invokeImmediately/marc.wsu.edu/
+ *
+ *  @author Daniel Rieck [daniel.rieck@wsu.edu] (https://github.com/invokeImmediately)
+ *  @license: MIT - Copyright (c) 2021 Washington State University
+ *    Permission is hereby granted, free of charge, to any person obtaining a copy of this software
+ *      and associated documentation files (the "Software"), to deal in the Software without
+ *      restriction, including without limitation the rights to use, copy, modify, merge, publish,
+ *      distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom
+ *      the Software is furnished to do so, subject to the following conditions:
+ *    The above copyright notice and this permission notice shall be included in all copies or
+ *      substantial portions of the Software.
+ *    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING
+ *      BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+ *      NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+ *      CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ *      ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+ *      SOFTWARE.
+ *  ================================================================================================
+ */
 @media all and (min-width:481px) {
 	.interactively-flipped-panels .container .panel-wrapper:hover .panel .front {
 		transition-property: opacity, z-index;
@@ -7356,28 +7813,12 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 		font-size: 2.35294118rem;
 	}
 	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		font-size: 1.3416em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		font-size: 1.2em;
-	}
-	
-	.row.thirds .article-deck {
-		font-size: 1.2em;
-	}
-	
-	.row.quarters .article-deck {
-		font-size: 1.1292em;
-	}
-	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
 		font-size: 13.416px;
 	}
 	
 	.row.side-left .column.two,.row.side-right .column.one,.row.single .column {
-		font-size: 1.118em;
+		font-size: 1em;
 	}
 	
 	.row.halves .column,.row.mimic-two-column-sections .column,.row.side-left .column.one,.row.side-left .column.two.mimic-sidebar,.row.side-right .column.one.mimic-sidebar,.row.side-right .column.two {
@@ -7949,22 +8390,6 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 		font-size: 1.6rem;
 	}
 	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		font-size: 1.0584em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		font-size: 1.0584em;
-	}
-	
-	.row.thirds .article-deck {
-		font-size: 1.0584em;
-	}
-	
-	.row.quarters .article-deck {
-		font-size: .9888em;
-	}
-	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
 		font-size: 10.584px;
 	}
@@ -8063,28 +8488,12 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 		font-size: 2.11764706rem;
 	}
 	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		font-size: 1.2em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		font-size: 1.1292em;
-	}
-	
-	.row.thirds .article-deck {
-		font-size: 1.0584em;
-	}
-	
-	.row.quarters .article-deck {
-		font-size: 1.0584em;
-	}
-	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
 		font-size: 12px;
 	}
 	
 	.row.side-left .column.two,.row.side-right .column.one,.row.single .column {
-		font-size: 1em;
+		font-size: .941em;
 	}
 	
 	.row.halves .column,.row.mimic-two-column-sections .column,.row.side-left .column.one,.row.side-left .column.two.mimic-sidebar,.row.side-right .column.one.mimic-sidebar,.row.side-right .column.two {
@@ -8117,28 +8526,12 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 		font-size: 2.11764706rem;
 	}
 	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		font-size: 1.3416em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		font-size: 1.1292em;
-	}
-	
-	.row.thirds .article-deck {
-		font-size: 1.0584em;
-	}
-	
-	.row.quarters .article-deck {
-		font-size: 1.0584em;
-	}
-	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
 		font-size: 13.416px;
 	}
 	
 	.row.side-left .column.two,.row.side-right .column.one,.row.single .column {
-		font-size: 1.118em;
+		font-size: .941em;
 	}
 	
 	.row.halves .column,.row.mimic-two-column-sections .column,.row.side-left .column.one,.row.side-left .column.two.mimic-sidebar,.row.side-right .column.one.mimic-sidebar,.row.side-right .column.two {
@@ -8169,22 +8562,6 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 	
 	.main-header .sub-header,.main-header .sub-header-default {
 		font-size: 2.35294118rem;
-	}
-	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		font-size: 1.2em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		font-size: 1.2em;
-	}
-	
-	.row.thirds .article-deck {
-		font-size: 1.2em;
-	}
-	
-	.row.quarters .article-deck {
-		font-size: 1.1292em;
 	}
 	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
@@ -8223,22 +8600,6 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 	
 	.main-header .sub-header,.main-header .sub-header-default {
 		font-size: 1.78823529rem;
-	}
-	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		font-size: 1.1292em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		font-size: 1.1292em;
-	}
-	
-	.row.thirds .article-deck {
-		font-size: 1.1292em;
-	}
-	
-	.row.quarters .article-deck {
-		font-size: 1.0584em;
 	}
 	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
@@ -8486,22 +8847,6 @@ span.has-tool-tip:hover:after,span.has-tooltip:hover:after {
 	
 	.article-header:not(.row) .header-content .highlight {
 		text-shadow: 0 .3333px 0 #77898b, 0 .6667px 0 #687779, 0 1px 0 #576365, 0 1.3333px 0 #475153, 0 1.6667px 0 #363e3f, 0 2px .3333px rgba(0,0,0,.1), 0 0 1.6667px rgba(0,0,0,.1), 0 .3333px 1px rgba(0,0,0,.3), 0 1px 1.6667px rgba(0,0,0,.2), 0 1.6667px 3.3333px rgba(0,0,0,.25), 0 3.3333px 3.3333px rgba(0,0,0,.2), 0 6.6667px 6.6667px rgba(0,0,0,.15);
-	}
-	
-	.row.side-left .article-deck.two,.row.side-right .article-deck.one,.row.single .article-deck {
-		line-height: 1.5em;
-	}
-	
-	.row.halves .article-deck,.row.mimic-two-column-sections .article-deck,.row.side-left .article-deck.one,.row.side-left .article-deck.two.mimic-sidebar,.row.side-right .article-deck.one.mimic-sidebar,.row.side-right .article-deck.two {
-		line-height: 1.5em;
-	}
-	
-	.row.thirds .article-deck {
-		line-height: 1.5em;
-	}
-	
-	.row.quarters .article-deck {
-		line-height: 1.5em;
 	}
 	
 	.row dl.faq>.collapse-all-button,.row dl.faq>.expand-all-button {
