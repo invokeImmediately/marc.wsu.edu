@@ -1,0 +1,162 @@
+/*!*************************************
+█▀▀▀▐▄ ▄▌▐▀█▀▌█▀▀▄ ▄▀▀▄   ▄▀▀▀ ▄▀▀▀ ▄▀▀▀
+█▀▀   █    █  █▄▄▀ █▄▄█   █    ▀▀▀█ ▀▀▀█
+▀▀▀▀▐▀ ▀▌  █  ▀  ▀▄█  ▀    ▀▀▀ ▀▀▀  ▀▀▀ 
+FOR THE MARC WEBSITE
+---------------------
+@version 1.1.0
+@author Daniel Rieck
+  [daniel.rieck@wsu.edu]
+  (https://github.com/invokeImmediately)
+@license MIT - Copyright © 2021
+  Washington State University
+  https://mit-license.org/
+****************************************
+LIST OF STYLE TWEAKS BY SECTION:
+ - Layout tweaks: Gravity Forms
+ - Layout: MARC eligibility requirements
+ - Spine theme color overrides
+ - MARC-WSU scholar bios
+ - Breadcrumb links teaks
+***************************************/
+
+/*!*************************************
+ * LAYOUT TWEAKS: GRAVITY FORMS
+ **************************************/
+
+@media screen and (min-width: 876px) {
+  .progress-indicator {
+    flex-wrap: wrap;
+  }
+}
+
+.gform_wrapper ul.gfield_checkbox li, .gform_wrapper ul.gfield_radio li {
+  padding-left: 2px !important;
+}
+
+/*!*************************************
+ * LAYOUT: MARC ELIGIBILITY REQUIREMENTS
+ **************************************/
+
+.marc-eligibility-reqs,
+.marc-eligibility-reqs-sizer {
+  display: flex;
+  flex-direction: column;
+  max-width: none;
+}
+
+.marc-eligibility-reqs-sizer {
+  position: absolute;
+  visibility: hidden;
+  z-index: -1;
+}
+
+.marc-eligibility-reqs:not(.marc-eligibility-reqs--sized):not(.marc-eligibility-reqs-sizer) {
+  height: 100vh;
+  overflow: hidden;
+}
+
+@media (min-width: 694px) {
+  .marc-eligibility-reqs:not(.marc-eligibility-reqs-sizer) {
+    flex-wrap: wrap;
+  }
+  
+  .marc-eligibility-reqs {
+    padding-left: 1rem;
+  }
+
+  .marc-eligibility-reqs__req {
+    box-sizing: border-box;
+    margin-left: 1rem;
+    padding-right: 2rem;
+    width:50%;
+  }
+}
+
+/*!*************************************
+ * SPINE THEME COLOR OVERRIDES
+ * Tweaks to the default Spine Theme palette that make better use of color theory.
+ * @author Daniel Rieck
+ **************************************/
+.orange-text {
+  color: #a63d0f;
+}
+
+/*!*************************************
+ * MARC-WSU SCHOLAR BIOS
+ * @author Daniel Rieck
+ **************************************/
+.marc-scholar-bios {
+  max-width: none;
+  padding-left: 0;
+}
+
+.marc-scholar-bios__scholar {
+  background-color: #eff0f1;
+  background-position: center;
+  height: 297px;
+  margin-left: -1rem;
+  margin-right: -1rem;
+  margin-top: -1rem;
+  position: relative;
+  white-space: nowrap;
+}
+
+.marc-scholar-bios__scholar-name {
+  background-color: rgba(0,0,0,0.75);
+  border-radius: .2rem;
+  bottom: .5rem;
+  color: white;
+  display: inline;
+  font-size: 1.6rem;
+  font-weight: 600;
+  left: 50%;
+  padding: .5rem;
+  position: absolute;
+  transform: translateX(-50%);
+}
+
+.marc-scholar-bios__profile {
+  overflow: hidden;
+}
+
+.marc-scholar-bios__profile#alexandra-malena .marc-scholar-bios__scholar {
+  background-image: url(https://s3.wp.wsu.edu/uploads/sites/2706/2021/09/marc-wsu-student-scholars_alexandra-malena_594w297h.jpg);
+}
+
+.marc-scholar-bios__profile#kalli-stephens .marc-scholar-bios__scholar {
+  background-image: url(https://s3.wp.wsu.edu/uploads/sites/2706/2021/09/marc-wsu-student-scholars_kalli-stephens_v2_594w297h.jpg);
+}
+
+.marc-scholar-bios__profile#natasha-puzon .marc-scholar-bios__scholar {
+  background-image: url(https://s3.wp.wsu.edu/uploads/sites/2706/2021/09/marc-wsu-student-scholars_natasha-puzon_594w297h.jpg);
+}
+
+.marc-scholar-bios__profile#tyrus-adrian-thomas .marc-scholar-bios__scholar {
+  background-image: url(https://s3.wp.wsu.edu/uploads/sites/2706/2021/09/marc-wsu-student-scholars_tyrus-adrian-thomas_v2_594w297h.jpg);
+}
+
+/*!*************************************
+ * BREADCRUMB LINKS TWEAKS
+ * @author Daniel Rieck
+ **************************************/
+.breadcrumb-list__breadcrumb:first-child a {
+  padding-left: 1.4em;
+  position: relative;
+}
+
+.breadcrumb-list__breadcrumb:first-child .breadcrumb-list__link:before {
+  background: url(https://repo.wsu.edu/spine/2.0.2/icons/home-gray.svg) center/.9em auto;
+  content: "";
+  width: .9em;
+  height: .9em;
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%) translate(.2em, .1em);
+}
+
+.breadcrumb-list__breadcrumb:first-child .breadcrumb-list__link:hover:before,
+.breadcrumb-list__breadcrumb:first-child .breadcrumb-list__link:focus:before {
+  background-image: url(https://repo.wsu.edu/spine/2.0.2/icons/home-crimson.svg);
+}
